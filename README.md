@@ -137,7 +137,8 @@
 ## Atualizações do projeto <br>
 Adição de mais duas entidades, sendo elas: <br>
 - CadastroCliente <br>
-= CaracteristicasCliente <br>
+- CaracteristicasCliente <br>
+
 Além das correções no Bean Validation, para exemplificar: <br>
 - @Email <br>
 - @NotNull <br>
