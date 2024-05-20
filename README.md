@@ -1,6 +1,6 @@
 # Sprint1 java - Projeto MyTrend
 
-![Programa](C:\Users\Guilherme Rocha\OneDrive\Imagens\MyTrend.png)
+![Programa](\Imagens\MyTrend.png)
 
 - Acessar Link para vídeo do Projeto: https://youtu.be/bcxfzYwGMmM?si=ZPWaerNrTpIVxYxn
 
