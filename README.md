@@ -1,8 +1,6 @@
 # Sprint1 java - Projeto MyTrend
 
-![Programa](\Imagens\MyTrend.png)
-
-- Acessar Link para vídeo do Projeto: https://youtu.be/bcxfzYwGMmM?si=ZPWaerNrTpIVxYxn
+- Acessar Link para vídeo do Projeto: https://www.youtube.com/watch?v=Pz85ywx5Fgc
 
 ### Nome da Aplicação: MyTrend
 
